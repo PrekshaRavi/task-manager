@@ -1,8 +1,10 @@
 # Task Manager – Internship Assignment
 
 ## Overview
-A simple Task Management application built as part of an internship screening task.
-The project demonstrates clean API design, basic validation, and a minimal UI with frontend-backend integration.
+A simple Task Management application.
+The project demonstrates clean API design, basic validation, and a minimal UI with frontend–backend integration.
+
+This project focuses on demonstrating frontend–backend integration, clean API design, and basic CRUD functionality, while keeping the implementation simple and aligned with the assignment requirements.
 
 ## Tech Stack
 - Backend: Node.js, Express, SQLite
